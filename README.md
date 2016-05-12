@@ -1,3 +1,3 @@
 # centos
-centos + open JDK 1.7
+centos + open JDK 1.8
 To be used as base docker file
